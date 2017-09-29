@@ -1,0 +1,5 @@
+C:\Users\warXx\Desktop\Programming Fundamentals\Lecture #2\Homework\Exercise_Demo\Problem_6\bin\Debug\Problem_6.exe.config
+C:\Users\warXx\Desktop\Programming Fundamentals\Lecture #2\Homework\Exercise_Demo\Problem_6\bin\Debug\Problem_6.exe
+C:\Users\warXx\Desktop\Programming Fundamentals\Lecture #2\Homework\Exercise_Demo\Problem_6\bin\Debug\Problem_6.pdb
+C:\Users\warXx\Desktop\Programming Fundamentals\Lecture #2\Homework\Exercise_Demo\Problem_6\obj\Debug\Problem_6.exe
+C:\Users\warXx\Desktop\Programming Fundamentals\Lecture #2\Homework\Exercise_Demo\Problem_6\obj\Debug\Problem_6.pdb

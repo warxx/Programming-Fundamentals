@@ -1,0 +1,6 @@
+C:\Users\warXx\Desktop\Programming Fundamentals\Lecture #2\Homework\Exercise_Demo\Problem_2\bin\Debug\Problem_2.exe.config
+C:\Users\warXx\Desktop\Programming Fundamentals\Lecture #2\Homework\Exercise_Demo\Problem_2\bin\Debug\Problem_2.exe
+C:\Users\warXx\Desktop\Programming Fundamentals\Lecture #2\Homework\Exercise_Demo\Problem_2\bin\Debug\Problem_2.pdb
+C:\Users\warXx\Desktop\Programming Fundamentals\Lecture #2\Homework\Exercise_Demo\Problem_2\obj\Debug\Problem_2.csprojResolveAssemblyReference.cache
+C:\Users\warXx\Desktop\Programming Fundamentals\Lecture #2\Homework\Exercise_Demo\Problem_2\obj\Debug\Problem_2.exe
+C:\Users\warXx\Desktop\Programming Fundamentals\Lecture #2\Homework\Exercise_Demo\Problem_2\obj\Debug\Problem_2.pdb
