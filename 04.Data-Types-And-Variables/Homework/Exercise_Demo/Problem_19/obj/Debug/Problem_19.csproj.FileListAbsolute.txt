@@ -1,0 +1,6 @@
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\04.Data-Types-And-Variables\Homework\Exercise_Demo\Problem_19\bin\Debug\Problem_19.exe.config
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\04.Data-Types-And-Variables\Homework\Exercise_Demo\Problem_19\bin\Debug\Problem_19.exe
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\04.Data-Types-And-Variables\Homework\Exercise_Demo\Problem_19\bin\Debug\Problem_19.pdb
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\04.Data-Types-And-Variables\Homework\Exercise_Demo\Problem_19\obj\Debug\Problem_19.csprojResolveAssemblyReference.cache
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\04.Data-Types-And-Variables\Homework\Exercise_Demo\Problem_19\obj\Debug\Problem_19.exe
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\04.Data-Types-And-Variables\Homework\Exercise_Demo\Problem_19\obj\Debug\Problem_19.pdb

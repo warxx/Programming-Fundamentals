@@ -1,0 +1,6 @@
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\04.Data-Types-And-Variables\Homework\Exercise_Demo\Problem_10\bin\Debug\Problem_10.exe.config
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\04.Data-Types-And-Variables\Homework\Exercise_Demo\Problem_10\bin\Debug\Problem_10.exe
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\04.Data-Types-And-Variables\Homework\Exercise_Demo\Problem_10\bin\Debug\Problem_10.pdb
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\04.Data-Types-And-Variables\Homework\Exercise_Demo\Problem_10\obj\Debug\Problem_10.exe
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\04.Data-Types-And-Variables\Homework\Exercise_Demo\Problem_10\obj\Debug\Problem_10.pdb
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\04.Data-Types-And-Variables\Homework\Exercise_Demo\Problem_10\obj\Debug\Problem_10.csprojResolveAssemblyReference.cache
