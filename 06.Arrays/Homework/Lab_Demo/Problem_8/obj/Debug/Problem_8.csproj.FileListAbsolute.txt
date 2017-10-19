@@ -1,0 +1,6 @@
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\06.Arrays\Homework\Lab_Demo\Problem_8\bin\Debug\Problem_8.exe.config
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\06.Arrays\Homework\Lab_Demo\Problem_8\bin\Debug\Problem_8.exe
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\06.Arrays\Homework\Lab_Demo\Problem_8\bin\Debug\Problem_8.pdb
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\06.Arrays\Homework\Lab_Demo\Problem_8\obj\Debug\Problem_8.csprojResolveAssemblyReference.cache
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\06.Arrays\Homework\Lab_Demo\Problem_8\obj\Debug\Problem_8.exe
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\06.Arrays\Homework\Lab_Demo\Problem_8\obj\Debug\Problem_8.pdb

@@ -1,0 +1,6 @@
+C:\Users\warXx\Desktop\06.Arrays\Homework\Exercise_Demo\Proba\bin\Debug\Proba.exe.config
+C:\Users\warXx\Desktop\06.Arrays\Homework\Exercise_Demo\Proba\bin\Debug\Proba.exe
+C:\Users\warXx\Desktop\06.Arrays\Homework\Exercise_Demo\Proba\bin\Debug\Proba.pdb
+C:\Users\warXx\Desktop\06.Arrays\Homework\Exercise_Demo\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+C:\Users\warXx\Desktop\06.Arrays\Homework\Exercise_Demo\Proba\obj\Debug\Proba.exe
+C:\Users\warXx\Desktop\06.Arrays\Homework\Exercise_Demo\Proba\obj\Debug\Proba.pdb

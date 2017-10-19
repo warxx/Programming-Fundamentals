@@ -1,0 +1,5 @@
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\05.Methods.Debugging-And-Troubleshooting-Code\Homework\Lab_Demo\Problem_5\bin\Debug\Problem_5.exe.config
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\05.Methods.Debugging-And-Troubleshooting-Code\Homework\Lab_Demo\Problem_5\bin\Debug\Problem_5.exe
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\05.Methods.Debugging-And-Troubleshooting-Code\Homework\Lab_Demo\Problem_5\bin\Debug\Problem_5.pdb
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\05.Methods.Debugging-And-Troubleshooting-Code\Homework\Lab_Demo\Problem_5\obj\Debug\Problem_5.exe
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\05.Methods.Debugging-And-Troubleshooting-Code\Homework\Lab_Demo\Problem_5\obj\Debug\Problem_5.pdb
