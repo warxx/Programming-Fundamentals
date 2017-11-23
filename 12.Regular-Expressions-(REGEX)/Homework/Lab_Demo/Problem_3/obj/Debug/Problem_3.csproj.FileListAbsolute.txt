@@ -1,0 +1,6 @@
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\12.Regular-Expressions-(REGEX)\Homework\Lab_Demo\Problem_3\bin\Debug\Problem_3.exe.config
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\12.Regular-Expressions-(REGEX)\Homework\Lab_Demo\Problem_3\bin\Debug\Problem_3.exe
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\12.Regular-Expressions-(REGEX)\Homework\Lab_Demo\Problem_3\bin\Debug\Problem_3.pdb
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\12.Regular-Expressions-(REGEX)\Homework\Lab_Demo\Problem_3\obj\Debug\Problem_3.csprojResolveAssemblyReference.cache
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\12.Regular-Expressions-(REGEX)\Homework\Lab_Demo\Problem_3\obj\Debug\Problem_3.exe
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\12.Regular-Expressions-(REGEX)\Homework\Lab_Demo\Problem_3\obj\Debug\Problem_3.pdb

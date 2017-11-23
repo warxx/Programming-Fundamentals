@@ -1,0 +1,6 @@
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\07.Lists\Homework\Exercise_Demo\Problem_4\bin\Debug\Problem_4.exe.config
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\07.Lists\Homework\Exercise_Demo\Problem_4\bin\Debug\Problem_4.exe
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\07.Lists\Homework\Exercise_Demo\Problem_4\bin\Debug\Problem_4.pdb
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\07.Lists\Homework\Exercise_Demo\Problem_4\obj\Debug\Problem_4.csprojResolveAssemblyReference.cache
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\07.Lists\Homework\Exercise_Demo\Problem_4\obj\Debug\Problem_4.exe
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\07.Lists\Homework\Exercise_Demo\Problem_4\obj\Debug\Problem_4.pdb

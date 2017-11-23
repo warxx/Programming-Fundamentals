@@ -1,0 +1,6 @@
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\Exam Preparation\Exam Preparation II\Exam\Problem_1\bin\Debug\Problem_1.exe.config
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\Exam Preparation\Exam Preparation II\Exam\Problem_1\bin\Debug\Problem_1.exe
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\Exam Preparation\Exam Preparation II\Exam\Problem_1\bin\Debug\Problem_1.pdb
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\Exam Preparation\Exam Preparation II\Exam\Problem_1\obj\Debug\Problem_1.csprojResolveAssemblyReference.cache
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\Exam Preparation\Exam Preparation II\Exam\Problem_1\obj\Debug\Problem_1.exe
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\Exam Preparation\Exam Preparation II\Exam\Problem_1\obj\Debug\Problem_1.pdb

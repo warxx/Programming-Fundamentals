@@ -1,0 +1,5 @@
+C:\Users\warXx\Desktop\07.Lists\Homework\Lab_Demo\Problem_5\bin\Debug\Problem_5.exe.config
+C:\Users\warXx\Desktop\07.Lists\Homework\Lab_Demo\Problem_5\bin\Debug\Problem_5.exe
+C:\Users\warXx\Desktop\07.Lists\Homework\Lab_Demo\Problem_5\bin\Debug\Problem_5.pdb
+C:\Users\warXx\Desktop\07.Lists\Homework\Lab_Demo\Problem_5\obj\Debug\Problem_5.exe
+C:\Users\warXx\Desktop\07.Lists\Homework\Lab_Demo\Problem_5\obj\Debug\Problem_5.pdb

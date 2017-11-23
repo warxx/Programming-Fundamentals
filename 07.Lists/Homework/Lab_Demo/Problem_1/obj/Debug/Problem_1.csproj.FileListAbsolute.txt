@@ -1,0 +1,6 @@
+C:\Users\warXx\Desktop\07.Lists\Homework\Lab_Demo\Problem_1\bin\Debug\Problem_1.exe.config
+C:\Users\warXx\Desktop\07.Lists\Homework\Lab_Demo\Problem_1\bin\Debug\Problem_1.exe
+C:\Users\warXx\Desktop\07.Lists\Homework\Lab_Demo\Problem_1\bin\Debug\Problem_1.pdb
+C:\Users\warXx\Desktop\07.Lists\Homework\Lab_Demo\Problem_1\obj\Debug\Problem_1.csprojResolveAssemblyReference.cache
+C:\Users\warXx\Desktop\07.Lists\Homework\Lab_Demo\Problem_1\obj\Debug\Problem_1.exe
+C:\Users\warXx\Desktop\07.Lists\Homework\Lab_Demo\Problem_1\obj\Debug\Problem_1.pdb

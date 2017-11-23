@@ -1,0 +1,6 @@
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\11.Strings-And-Text-Processing\Homework\Exercise_Demo\Problem_1\bin\Debug\Problem_1.exe.config
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\11.Strings-And-Text-Processing\Homework\Exercise_Demo\Problem_1\bin\Debug\Problem_1.exe
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\11.Strings-And-Text-Processing\Homework\Exercise_Demo\Problem_1\bin\Debug\Problem_1.pdb
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\11.Strings-And-Text-Processing\Homework\Exercise_Demo\Problem_1\obj\Debug\Problem_1.exe
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\11.Strings-And-Text-Processing\Homework\Exercise_Demo\Problem_1\obj\Debug\Problem_1.pdb
+C:\Users\c0dyy_000\Desktop\Programming Fundamentals\11.Strings-And-Text-Processing\Homework\Exercise_Demo\Problem_1\obj\Debug\Problem_1.csprojResolveAssemblyReference.cache
